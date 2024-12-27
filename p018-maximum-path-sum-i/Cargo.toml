@@ -1,0 +1,6 @@
+[package]
+name = "p018-maximum-path-sum-i"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

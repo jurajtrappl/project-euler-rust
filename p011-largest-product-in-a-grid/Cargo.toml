@@ -1,0 +1,6 @@
+[package]
+name = "p011-largest-product-in-a-grid"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
